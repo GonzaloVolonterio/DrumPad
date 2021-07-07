@@ -1,0 +1,31 @@
+{
+  "files": {
+    "app.js": "/DrumPad/static/js/app.3b74ee05.chunk.js",
+    "app.js.map": "/DrumPad/static/js/app.3b74ee05.chunk.js.map",
+    "runtime~app.js": "/DrumPad/static/js/runtime~app.3e37a8ae.js",
+    "runtime~app.js.map": "/DrumPad/static/js/runtime~app.3e37a8ae.js.map",
+    "static/js/2.0113000a.chunk.js": "/DrumPad/static/js/2.0113000a.chunk.js",
+    "static/js/2.0113000a.chunk.js.map": "/DrumPad/static/js/2.0113000a.chunk.js.map",
+    "favicon-16.png": "/DrumPad/favicon-16.png",
+    "favicon-32.png": "/DrumPad/favicon-32.png",
+    "favicon.ico": "/DrumPad/favicon.ico",
+    "index.html": "/DrumPad/index.html",
+    "manifest.json": "/DrumPad/manifest.json",
+    "serve.json": "/DrumPad/serve.json",
+    "static/js/2.0113000a.chunk.js.LICENSE.txt": "/DrumPad/static/js/2.0113000a.chunk.js.LICENSE.txt",
+    "static/media/bass.mp3": "/DrumPad/static/media/bass.615830ae.mp3",
+    "static/media/bass2.mp3": "/DrumPad/static/media/bass2.36504bfb.mp3",
+    "static/media/bass3.mp3": "/DrumPad/static/media/bass3.87b8451c.mp3",
+    "static/media/cymbal.mp3": "/DrumPad/static/media/cymbal.a855bbbf.mp3",
+    "static/media/cymbal2.mp3": "/DrumPad/static/media/cymbal2.8c519d32.mp3",
+    "static/media/drumstick.mp3": "/DrumPad/static/media/drumstick.aa2d6776.mp3",
+    "static/media/hihat.mp3": "/DrumPad/static/media/hihat.2b658466.mp3",
+    "static/media/snare.mp3": "/DrumPad/static/media/snare.d222b009.mp3",
+    "static/media/tom.mp3": "/DrumPad/static/media/tom.2339f2b7.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.3e37a8ae.js",
+    "static/js/2.0113000a.chunk.js",
+    "static/js/app.3b74ee05.chunk.js"
+  ]
+}
